@@ -1,6 +1,6 @@
-package com.example.pass.respository.packaze;
+package com.example.pass.repository.packaze;
 
-import com.example.pass.respository.BaseEntity;
+import com.example.pass.repository.BaseEntity;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

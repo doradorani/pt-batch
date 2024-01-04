@@ -1,4 +1,4 @@
-package com.example.pass.respository;
+package com.example.pass.repository;
 
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.LastModifiedDate;

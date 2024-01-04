@@ -1,9 +1,9 @@
-package com.example.pass.respository;
+package com.example.pass.repository;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.example.pass.respository.packaze.PackageEntity;
-import com.example.pass.respository.packaze.PackageRespository;
+import com.example.pass.repository.packaze.PackageEntity;
+import com.example.pass.repository.packaze.PackageRespository;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
